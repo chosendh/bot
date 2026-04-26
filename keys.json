@@ -3,5 +3,10 @@
         "hwid": "9463f81cc0728995a7d0b6d4c398acb85f6732f6fdb0cfea4d150a4abcdc54ec",
         "created_at": "2026-04-26 17:40:22.827187",
         "active": true
+    },
+    "5C1OsQb0MJqeb0PwOP64yz9m7WJkuM": {
+        "hwid": null,
+        "created_at": "2026-04-26 18:05:27.451146",
+        "active": true
     }
 }
