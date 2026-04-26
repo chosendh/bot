@@ -18,5 +18,10 @@
         "hwid": "3cb5eb4743fa1e9bb746ebbb69f780f790a063cee3027237134a222e3bc2743a",
         "created_at": "2026-04-26 20:19:44.600515",
         "active": true
+    },
+    "7ztPQVAsn322stFJ4MUVmlOtFx6DUh": {
+        "hwid": null,
+        "created_at": "2026-04-26 23:08:14.336685",
+        "active": true
     }
 }
